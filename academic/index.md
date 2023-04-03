@@ -1,7 +1,7 @@
 ---
 title: 学术活动
 nav:
-  order: 3
+  order: 2
   # tooltip: 荣誉获奖
 ---
 
